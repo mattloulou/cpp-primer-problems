@@ -1,0 +1,1 @@
+//the program is illegal as on lines 2 and 3, the output operator always requires a left operand, as it is not unary. To fix it, the beginningo f lines 2 and three must have std::cout.
